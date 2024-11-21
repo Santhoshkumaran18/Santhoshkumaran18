@@ -32,6 +32,7 @@
 📬 Reach out to me:
 
 💼 LinkedIn : https://www.linkedin.com/in/s-santhosh-kumaran-973b9212a/
+
 📧 Email: santhoshkumaran244@gmail.com
 ---
 <!---
