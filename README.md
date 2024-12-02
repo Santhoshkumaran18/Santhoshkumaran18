@@ -1,41 +1,49 @@
-- 👋 Hi, I’m @Santhoshkumaran18
-- 🔹 **Software Automation Test Engineer** with expertise in **Selenium** **Java** **UI/WebTesting**, passionate about building efficient, maintainable, and scalable automation frameworks.
-- 🔹 Automation Test Engineer with 4 years of experience in ensuring quality through robust testing practices and cutting-edge automation frameworks.
-- 👀 I’m interested in ...**Senior Automation QA Test Engineer roles**
+# 👋 Hi, I’m **Santhosh Kumaran**  
+🔹 **Software Automation Test Engineer**  
+🔹 Passionate about building scalable, maintainable, and efficient automation frameworks.  
+🔹 Seeking **Senior Automation QA Test Engineer** roles to advance my expertise in automation testing and quality engineering.
 
-  
-- ## 🌟 **About Me**
 
-- 💻 **Professional Experience**: 
-  - 🔹3.5+ years of experience in **Automation Testing** across diverse domains in Retail & Banking Domain.
-  - 🔹Manual Testing Expertise: Skilled in Manual call testing, SQL Database testing, and DTMF input testing for telecom and core banking applications.
-  - 🔹Hands-on experience in **Web UI testing**, **Selenium** **Java, Jenkins, CI/CD, Agile methodologies, Confluence, Test Report, SQL, ETL Testing, Cuumber,TestNG**,**API Testing, Rest Assured**, **Accessibility**, and **Security** testing.
-  - 🔹Expertise in testing frameworks like **TestNG** and **Cucumber**.
-  - 🔹 Accessibility & Security Testing: Proficient in accessibility testing using **NVDA & JAWS,** and **Axe-core** and security testing using **OWASP ZAP and Jenkins**.
-  - 🔹Framework Development: Currently developing a scalable, modular Selenium Java framework with features like cross-browser support and custom reporting.
-  - 🔹Learning API Automation: Exploring tools like Rest-Assured to expand my expertise in API testing and automation.
-  - 🔹Testing Tools Proficiency: Selenium, WebdriverIO, and CI/CD tools like Jenkins and GitHub Actions.
+## 🌟 **About Me**  
 
-- 🔧 **Skill Set**:
-  - **Languages**: Java
-  - **Automation Tools**: Selenium 
-  - **CI/CD**: Jenkins, GitHub Actions
-  - **Version Control**: Git
-  - **Database**: SQL
-  - **Other Tools**: Postman, OWASP ZAP, Axe-core, JAWS, NVDA
-  - **Microsoft Office suite**
-    
-- 📚 Constant learner, currently exploring:
-  - **Advanced Selenium Techniques**
+### 💻 **Professional Experience**  
+- 4 years of experience in **Automation Testing** across **Retail** and **Banking domains**.  
+- Expertise in:  
+  - **Manual Testing**: Skilled in SQL database testing, manual call testing, DTMF input testing, and telecom/core banking applications.  
+  - **Automation Tools & Frameworks**: Selenium, Java, WebdriverIO, TestNG, Cucumber.  
+  - **CI/CD & Version Control**: Proficient with Jenkins, GitHub Actions, and Git.  
+  - **API Testing**: Exploring advanced testing with **Rest-Assured** and **Postman**.  
+  - **Accessibility Testing**: Using **NVDA, JAWS**, and **Axe-core** tools for compliance.  
+  - **Security Testing**: Conducting tests with **OWASP ZAP** and **Jenkins SAST**.  
 
- -📈 Let's Collaborate
-    Passionate about learning, building, and contributing to the testing community. Open to working on test automation, CI/CD integrations, and quality engineering projects!
+- **Key Achievements**:  
+  - Developed a modular and scalable **Selenium Java framework** with cross-browser support and custom reporting.  
+  - Contributed to improving software quality through robust test strategies, Agile practices, and collaboration with cross-functional teams.  
+  - Specialized in end-to-end **UI/Web Testing** and ETL Testing.  
 
-📬 Reach out to me:
+### 🔧 **Technical Skills**  
+- **Languages**: Java  
+- **Automation Tools**: Selenium, WebdriverIO  
+- **Testing Tools**: Postman, Rest-Assured  
+- **CI/CD Tools**: Jenkins, GitHub Actions  
+- **Version Control**: Git  
+- **Accessibility Tools**: NVDA, JAWS, Axe-core  
+- **Security Tools**: OWASP ZAP  
+- **Databases**: SQL  
 
-💼 LinkedIn : https://www.linkedin.com/in/s-santhosh-kumaran-973b9212a/
+## 📚 **Continuous Learning**  
+- Currently exploring:  
+  - **Advanced Selenium Techniques**  
+  - **API Automation with Rest-Assured**  
 
-📧 Email:  santhoshkumaran244@gmail.com
+## 📈 **Collaboration & Community**  
+- Open to contributing to projects on **test automation**, **CI/CD integration**, and **quality engineering**.  
+- Passionate about sharing knowledge and building innovative solutions in the QA domain.  
+
+## 📬 **Reach Out**  
+- 💼 LinkedIn: [Santhosh Kumaran](https://www.linkedin.com/in/s-santhosh-kumaran-973b9212a/)  
+- 📧 Email: **santhoshkumaran244@gmail.com**  
+
 ---
 <!---
 Santhoshkumaran18/Santhoshkumaran18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
