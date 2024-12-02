@@ -9,7 +9,7 @@
 ### 💻 **Professional Experience**  
 - 4 years of experience in **Automation Testing** across **Retail** and **Banking domains**.  
 - Expertise in:  
-  - **Manual Testing**: Skilled in SQL database testing, manual call testing, DTMF input testing, and telecom/core banking applications.  
+  - **Manual Testing**: Skilled in UI Testing, IVR testing, DTMF input testing, and ETL testing for Retail/core banking applications.  
   - **Automation Tools & Frameworks**: Selenium, Java, WebdriverIO, TestNG, Cucumber.  
   - **CI/CD & Version Control**: Proficient with Jenkins, GitHub Actions, and Git.  
   - **API Testing**: Exploring advanced testing with **Rest-Assured** and **Postman**.  
