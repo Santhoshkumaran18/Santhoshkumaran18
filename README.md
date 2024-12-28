@@ -49,9 +49,6 @@ Copy code
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"/>
-<br/>
-
-
 
 
 ## 📈 **Collaboration & Community**  
