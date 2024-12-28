@@ -47,7 +47,6 @@ Copy code
 <img align="left" alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"/>
 <br/>
 
-
 ## 📚 **Continuous Learning**  
 - Currently exploring:  
   - **Advanced Selenium Techniques**  
