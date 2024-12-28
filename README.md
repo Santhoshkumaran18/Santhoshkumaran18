@@ -1,5 +1,5 @@
-# 👋 Hi, I’m **Santhosh Kumaran**  
-🔹 **Software Automation Test Engineer**  
+# 👋 Hi, I’m **Santhosh Kumaran**                                                                                                                                
+🔹 **Software QA Automation Test Engineer**  
 🔹 Passionate about building scalable, maintainable, and efficient automation frameworks.  
 🔹 Seeking **Senior Automation QA Test Engineer** roles to advance my expertise in automation testing and quality engineering.
 
@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 **About Me**  
-I am an experienced **Automation Test Engineer** with 4 years of experience across **Retail** and **Banking domains**. My expertise includes both **Manual Testing** and **Automation Testing** in fast-paced Agile environments. I specialize in developing **Selenium Java frameworks**, implementing **CI/CD pipelines**, and ensuring software quality through extensive **API**, **Security**, and **Accessibility Testing**.
+**Automation QA Test Engineer** with 4 years of experience across **Retail** and **Banking domains**. My expertise includes both **Manual Testing** and **Automation Testing** in fast-paced Agile environments. I specialize in developing **Selenium Java frameworks**, implementing **CI/CD pipelines**, and ensuring software quality through extensive **API**, **Security**, and **Accessibility Testing**.
 
 ### **Key Highlights:**
 - Experience in **UI Testing**, **IVR Testing**, and **ETL Testing** for both retail and core banking applications.
@@ -56,10 +56,9 @@ Here are the tools I use in my day-to-day work:
 <img align="left" alt="Axe-core" width="50px" src="https://www.deque.com/wp-content/uploads/2015/06/aXeLogo-300x300.png" />
 <img align="left" alt="OWASP ZAP" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnfuPu5U0GyKyq462FQ9s0fR_z8mOIpWKsNQ&s" />
 <br/>
+---
 
----
----
-## 🌐 **Languages Used**
+##  🌐 **Languages Used**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumaran18&layout=compact&theme=tokyonight) 
 
 ---
