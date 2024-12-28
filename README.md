@@ -19,7 +19,15 @@
 - **Key Achievements**:  
   - Developed a modular and scalable **Selenium Java framework** with cross-browser support and custom reporting.  
   - Contributed to improving software quality through robust test strategies, Agile practices, and collaboration with cross-functional teams.  
-  - Specialized in end-to-end **UI/Web Testing** and ETL Testing.  
+  - Specialized in end-to-end **UI/Web Testing** and ETL Testing.
+ 
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img align="left" alt="Spring" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+<br/>
 
 ### 🔧 **Technical Skills**  
 - **Languages**: Java  
