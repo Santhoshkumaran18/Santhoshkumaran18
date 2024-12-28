@@ -21,13 +21,6 @@
   - Contributed to improving software quality through robust test strategies, Agile practices, and collaboration with cross-functional teams.  
   - Specialized in end-to-end **UI/Web Testing** and ETL Testing.
  
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-<img align="left" alt="Spring" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
-<br/>
 
 ### 🔧 **Technical Skills**  
 - **Languages**: Java  
@@ -37,7 +30,23 @@
 - **Version Control**: Git  
 - **Accessibility Tools**: NVDA, JAWS, Axe-core  
 - **Security Tools**: OWASP ZAP  
-- **Databases**: SQL  
+- **Databases**: SQL
+
+Languages and Tools with Icon Links
+markdown
+Copy code
+### Languages and Tools:
+
+<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img align="left" alt="Jenkins" width="40px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" />
+<img align="left" alt="SQL Server" width="40px" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="left" alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"/>
+
+<br/>
 
 ## 📚 **Continuous Learning**  
 - Currently exploring:  
