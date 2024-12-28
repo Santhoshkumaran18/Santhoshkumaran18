@@ -36,9 +36,7 @@
 - Currently exploring:  
   - **Advanced Selenium Techniques**  
   - **API Automation with Rest-Assured**  
-Languages and Tools with Icon Links
-markdown
-Copy code
+
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
@@ -48,10 +46,12 @@ Copy code
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"/>
+<img align="left" alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"/> <br/>
 
 
-## 📈 **Collaboration & Community**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumaran18&layout=compact&theme=tokyonight) 
+
+##📈 **Collaboration & Community**  
 - Open to contributing to projects on **test automation**, **CI/CD integration**, and **quality engineering**.  
 - Passionate about sharing knowledge and building innovative solutions in the QA domain.  
 
