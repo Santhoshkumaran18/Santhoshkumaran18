@@ -7,7 +7,7 @@
 
 ---
 
-## 🌟 **About Me**  
+## 🌟 **Professsional Summary**  
 **Automation QA Test Engineer** with 4 years of experience across **Retail** and **Banking domains**. My expertise includes both **Manual Testing** and **Automation Testing** in fast-paced Agile environments. I specialize in developing **Selenium Java frameworks**, implementing **CI/CD pipelines**, and ensuring software quality through extensive **API**, **Security**, and **Accessibility Testing**.
 
 ### **Key Highlights:**
