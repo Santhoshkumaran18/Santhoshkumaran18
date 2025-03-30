@@ -27,7 +27,7 @@
 
 **API Testing Tools:**
 - Rest-Assured  
-- Postman  
+- Postman
 
 **CI/CD & Version Control:**
 - Jenkins, GitHub Actions  
