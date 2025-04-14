@@ -11,7 +11,7 @@
 **Automation QA Test Engineer** with 4 years of experience across **Retail** and **Banking domains**. My expertise includes both **Manual Testing** and **Automation Testing** in fast-paced Agile environments. I specialize in developing **Selenium Java frameworks**, implementing **CI/CD pipelines**, and ensuring software quality through extensive **API**, **Security**, and **Accessibility Testing**.
 
 ### **Key Highlights:**
-- Experience in **UI Testing**, **IVR Testing**, and **ETL Testing** for both retail and core banking applications.
+- Experience in **Web UI Testing**, **IVR Testing** for both retail and core banking applications.
 - Developed **scalable Selenium frameworks** for various projects with cross-browser compatibility and custom reporting features.
 - Proficient in testing with **Rest-Assured**, **Postman**, and **Jenkins** for API testing and CI/CD pipeline management.
 - Skilled in **Accessibility Testing** with **NVDA**, **JAWS**, and **Axe-core** tools.
