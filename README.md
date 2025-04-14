@@ -26,7 +26,7 @@
 - Selenium, WebdriverIO, TestNG, Cucumber  
 
 **API Testing Tools:**
-- Rest-Assured  
+- Rest-Assured Automation
 - Postman
 
 **CI/CD & Version Control:**
