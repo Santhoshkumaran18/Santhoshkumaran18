@@ -1,7 +1,6 @@
 # 👋 Hi, I’m **Santhosh Kumaran**                                                                                                                                
 🔹 **Software QA Automation Test Engineer**  
 🔹 Passionate about building scalable, maintainable, and efficient automation frameworks.  
-🔹 Seeking **Senior Automation QA Test Engineer** roles to advance my expertise in automation testing and quality engineering.
 
 ![Profile views](https://komarev.com/ghpvc/?username=santhoshkumaran18)
 
